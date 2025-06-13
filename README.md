@@ -15,6 +15,12 @@ This project implements a traffic sign detection and recognition system using de
 - LeNet
 - AlexNet
 
+  ## 🙋‍♂️ My Role
+    As part of the group, my primary responsibility was focused on **model implementation and training**. I worked on:
+    - Building and training the CNN, LeNet, and AlexNet models using TensorFlow/Keras
+    - Applying data augmentation techniques to improve model generalization
+    - Tuning hyperparameters and analyzing performance metrics (accuracy, precision, recall, F1-score)
+    - Contributing to the integration of preprocessing steps such as contrast normalization and edge detection
 ## 📊 Dataset
 - [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 - 50K+ images across 43 traffic sign classes
@@ -40,10 +46,5 @@ This project implements a traffic sign detection and recognition system using de
 1. Install dependencies:
 ```bash
 pip install numpy pandas matplotlib seaborn tensorflow scikit-learn opencv-python
-## 🙋‍♂️ My Role
-As part of the group, my primary responsibility was focused on **model implementation and training**. I worked on:
-- Building and training the CNN, LeNet, and AlexNet models using TensorFlow/Keras
-- Applying data augmentation techniques to improve model generalization
-- Tuning hyperparameters and analyzing performance metrics (accuracy, precision, recall, F1-score)
-- Contributing to the integration of preprocessing steps such as contrast normalization and edge detection
+
 
