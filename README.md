@@ -1,4 +1,4 @@
-# traffic-sign-recognition
+
 # Traffic Sign Detection and Recognition using Deep Learning
 
 ## 🔍 Overview
